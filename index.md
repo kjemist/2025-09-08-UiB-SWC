@@ -32,14 +32,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 
-{% comment %}
-8< ============= For a workshop delete from here =============
-For a workshop please delete the following block until the next dashed-line
-{% endcomment %}
-
-{% comment %}
-8< ============================= until here ==================
-{% endcomment %}
 
 
 {% comment %}
@@ -245,6 +237,11 @@ Display the contact email address set in the configuration file.
   to-be-announced
   {% endif %}
   for more information.
+</p>
+
+<p id="attendance fee">
+  <strong>Attendance fee:</strong>
+  There will be an attendance fee of 2000 kr to attend the course.
 </p>
 
 <p id="signup">
