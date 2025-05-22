@@ -249,7 +249,7 @@ Display the contact email address set in the configuration file.
 
 <p id="signup">
   <strong>Signup:</strong>
-  <a href="https://skjemaker.app.uib.no/view.php?id=16467907">Sign up via Skjemaker</a>.
+  <a href="https://skjemaker.app.uib.no/view.php?id=19525369">Sign up via Skjemaker</a>.
 </p>
 
 <p id="signup">
