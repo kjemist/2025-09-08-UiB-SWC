@@ -249,9 +249,14 @@ Display the contact email address set in the configuration file.
   <a href="https://skjemaker.app.uib.no/view.php?id=19525369">Sign up via Skjemaker</a>.
 </p>
 
-<p id="signup">
+<p id="Event Page">
   <strong>UiB event page:</strong>
   <a href="https://www.uib.no/en/ub/168267/software-carpentry-course-research-computing-skills-shell-r-and-python-reproducible">UiB event page</a>.
+</p>
+
+<p id="volunteer signup">
+  <strong> Volunteer signup: Signup:</strong>
+  Interested in volunteering as a helper or an instructor? <a href="https://skjemaker.app.uib.no/edit_form.php?id=19525995">Register your interest in this form!</a>.
 </p>
 
 <p id="roles">
