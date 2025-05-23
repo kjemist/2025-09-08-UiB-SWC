@@ -255,7 +255,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="volunteer signup">
-  <strong> Volunteer signup: Signup:</strong>
+  <strong> Volunteer signup: </strong>
   Interested in volunteering as a helper or an instructor? <a href="https://skjemaker.app.uib.no/edit_form.php?id=19525995">Register your interest in this form!</a>.
 </p>
 
